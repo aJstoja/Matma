@@ -2,9 +2,12 @@
 
 ## Jak z tego korzystać?
 
+**UWAGA**: Niedawno znalazłem opcję, by dało się pobrać tylko program z [linku](https://github.com/aJstoja/Matma/blob/main/Matma.exe?raw=true) - po pobraniu pliku w ten sposób [**](#dwie-gwiazdki) należy przejść do ktoku 4-tego
+
 <details>
 <summary>1. Zainstaluj program</summary>
 
+- Niedawno znalazłem opcję, by dało się pobrać tylko program z [linku](https://github.com/aJstoja/Matma/blob/main/Matma.exe?raw=true) - po pobraniu pliku w ten sposób [**](#dwie-gwiazdki) należy przejść do ktoku 4-tego
 - Kliknij ![obrazek: `<> Code`](https://github.com/aJstoja/Images/blob/main/CodeImageGitHub2.png?raw=true)  
 - Z listy wybierz `Download ZIP`
 
@@ -30,7 +33,7 @@
 <summary>3. Wypakuj plik `Matma.exe`</summary>
 
 - Otwórz katalog `Matma-main`
-- Przeciągnij plik `Matma.exe` poza `ZIP` (np. na pulpit)
+- Przeciągnij plik `Matma.exe` poza `ZIP` [**](#dwie-gwiazdki)
 
 </details>
 
@@ -86,10 +89,16 @@ A bo Pani zadała pracę projektową, i tak oto zacząłem to tworzyć. A że mi
 
 ---
 
-## Załączniki:
+## Odnośniki:
 
 <a id="obrazek-pobierania"></a>
 
 ###### Obrazek pobierania
 
 \* → ![(obrazek okna pobierania)](https://github.com/aJstoja/Images/blob/main/DownloadImage2.png?raw=true)
+
+<a id="dwie-gwiazdki"></a>
+
+###### Propozycja przeniesienia pliku
+
+\** → Polecam przenieść plik `Main.exe` na pulpit
