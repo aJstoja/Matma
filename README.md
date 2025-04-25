@@ -101,4 +101,4 @@ A bo Pani zadała pracę projektową, i tak oto zacząłem to tworzyć. A że mi
 
 ###### Propozycja przeniesienia pliku
 
-\** → Polecam przenieść plik `Main.exe` na pulpit
+\** → Polecam przenieść pobrany plik `Matma.exe` na pulpit
